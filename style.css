@@ -40,3 +40,10 @@ h3 {
   margin-right: auto;
   width: 400px;
   height: 300px;
+}
+.mousedesc {
+  color: Black;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
