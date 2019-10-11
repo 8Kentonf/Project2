@@ -1,6 +1,6 @@
 body {
   background-color: Gainsboro;
-  font-family: "Times New Roman", Times, serif, 'Raleway', sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 h1 {
   color: DimGray;
@@ -29,4 +29,3 @@ h3 {
   border: 2px DimGray;
   padding: 10px;
 }
-  
