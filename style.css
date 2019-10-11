@@ -31,8 +31,11 @@ h3 {
   margin: 20px;
 }
 .education {
-  margin: 1em;
+  margin: 5px;
   font-family: 'Raleway', sans-serif;
+}
+.skills {
+  margin 5px;
 }
 .mousepic {
   display: block;
