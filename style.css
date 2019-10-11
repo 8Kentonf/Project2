@@ -1,5 +1,6 @@
 body {
   background-color: Gainsboro;
+  font-family: "Times New Roman", Times, serif, 'Raleway', sans-serif;
 }
 h1 {
   color: DimGray;
@@ -21,3 +22,6 @@ h3 {
    max-width: 300px;
   height: 300px;
 }
+.personalinfo {
+  margin: 1em;
+  
