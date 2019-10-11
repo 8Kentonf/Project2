@@ -27,6 +27,8 @@ h3 {
 }
 .personalinfo {
   text-align: center;
-  border: 2px solid DimGray;
+  border: 4px solid DimGray;
   padding: 10px;
 }
+.education {
+  
