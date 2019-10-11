@@ -1,7 +1,10 @@
 body {
-  background-color: WhiteSmoke;
+  background-color: Gainsboro;
 }
 h1 {
+  color: DimGray;
+}
+h2 {
   color: DimGray;
 }
 h3 {
