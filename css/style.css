@@ -19,6 +19,7 @@ h3 {
   margin: 0;
   padding: 0;
   background-color: DimGray;
+  overflow: hidden;
 }
 
 li {
@@ -32,6 +33,10 @@ li a {
 }
 
 li a:hover {
+  background-color: DimGray;
+}
+
+.active {
   background-color: DimGray;
 }
 
