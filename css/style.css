@@ -14,10 +14,11 @@ h2 {
 h3 {
   color: DimGray;
 }
-.navhead {
+nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  background-color: Black;
 }
 
 li {
@@ -28,7 +29,6 @@ li a {
   display: block;
   color: White;
   padding: 10px 15px;
-  background-color: Black;
 }
 
 li a:hover {
