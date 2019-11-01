@@ -26,13 +26,13 @@ h3 {
   float: left;
 }
 
-.navhead a li {
+.navhead li {
   display: block;
   color: White;
   padding: 10px 15px;
 }
 
-.navhead a li:hover {
+.navhead li:hover {
   background-color: Black;
 }
 
