@@ -28,16 +28,16 @@ h3 {
 
 .navhead li a {
   display: block;
-  color: Black;
+  color: White;
   padding: 10px 15px;
 }
 
 .navhead li a:hover {
-  background-color: DimGray;
+  background-color: Black;
 }
 
 .active {
-  background-color: DimGray;
+  background-color: Black;
 }
 
 .selfpic {
