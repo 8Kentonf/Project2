@@ -103,5 +103,6 @@ h3 {
 }
 
 .ingredients ul li {
+  padding: 10px;
   background: #F5F5DC;
 }
