@@ -79,6 +79,12 @@ h3 {
 	padding: 10px;
 	line-height: 2em;
 }
+
+.wrapper {
+  border: 1px solid Black;
+	width: 1000px;
+	margin: auto;
+}
 .biscuit {
   display: block;
   margin-left: auto;
