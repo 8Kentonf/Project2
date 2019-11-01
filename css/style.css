@@ -96,7 +96,7 @@ h3 {
   text-align: center;
 }
   
-.ingredients {
+.ingredients ul{
   background: #FFE4C4;
 }
 .ingredients li {
