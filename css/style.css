@@ -24,15 +24,12 @@ h3 {
 
 .navhead a {
   float: left;
-}
-
-.navhead a {
   display: block;
   color: White;
   padding: 10px 15px;
 }
 
-.navhead a:hover {
+.navhead a :hover {
   background-color: Black;
 }
 
