@@ -24,10 +24,15 @@ li {
   float: left;
 }
 
-a {
+li a {
   display: block;
-  padding: 10px;
+  color: White;
+  padding: 10px 15px;
   background-color: Black;
+}
+
+li a:hover {
+  background-color: DimGray;
 }
 
 .selfpic {
