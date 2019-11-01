@@ -85,6 +85,7 @@ h3 {
 	width: 1000px;
 	margin: auto;
 }
+
 .biscuit {
   display: block;
   margin-left: auto;
@@ -92,13 +93,15 @@ h3 {
   width: 300px;
   height: 300px;
 }
+
 .biscuitdesc {
   text-align: center;
 }
-  
+
 .ingredients ul{
   background: #FFE4C4;
 }
+
 .ingredients li {
   background: #F5F5DC;
 }
