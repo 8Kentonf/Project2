@@ -96,3 +96,9 @@ h3 {
   text-align: center;
 }
   
+.ingredients {
+  background: #FFE4C4;
+}
+.ingredients li {
+  background: #F5F5DC;
+}
