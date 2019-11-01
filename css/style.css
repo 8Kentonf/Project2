@@ -74,7 +74,10 @@ h3 {
   font-weight: bold;
 }
 .review {
-  margin: 1em;
+  margin-left: 200px;
+	border-left: 1px solid Black;
+	padding: 10px;
+	line-height: 2em;
 }
 .biscuit {
   display: block;
