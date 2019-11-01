@@ -18,7 +18,7 @@ h3 {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: Black;
+  background-color: DimGray;
 }
 
 li {
@@ -27,7 +27,7 @@ li {
 
 li a {
   display: block;
-  color: White;
+  color: Black;
   padding: 10px 15px;
 }
 
