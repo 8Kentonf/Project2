@@ -14,10 +14,24 @@ h2 {
 h3 {
   color: DimGray;
 }
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
 li {
-  display: inline;
+  float: left;
   
 }
+
+a {
+  display: block;
+  padding: 10px;
+  background-color: Black;
+}
+
 .selfpic {
   display: block;
   margin-left: auto;
