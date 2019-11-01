@@ -22,17 +22,17 @@ h3 {
   overflow: hidden;
 }
 
-li {
+.navhead li {
   float: left;
 }
 
-li a {
+.navhead li a {
   display: block;
   color: Black;
   padding: 10px 15px;
 }
 
-li a:hover {
+.navhead li a:hover {
   background-color: DimGray;
 }
 
